@@ -2,7 +2,7 @@ media:
   - name: images
     label: Blog Images
     input: src/content/posts
-    output: src/content/posts
+    output: ./
     extensions: [png, jpg]
 content:
   - name: about
@@ -34,18 +34,7 @@ content:
           type: select
           options:
             values: [Manga, Anime, Literature, Movie, Shows]
-        - name: tags
-          label: Tags
-          type: select
-          options:
-            values: ["Yuri","Yaoi"]
         - {name: draft, type: boolean, default: false, label: Draft?}
-        - name: image
-          type: image
-          label: Cover Image
-          options:
-            path: posts
-            output: ./
         - name: body
           label: Content
           type: rich-text
