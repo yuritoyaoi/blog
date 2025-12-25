@@ -18,4 +18,7 @@ Author: Auri Hirao
 | :---: | :---: | :---: |
 | <p style="text-align: center">12</p> | <p style="text-align: center">Complete</p> | <p style="text-align: center">Manga</p> |
 | <p style="text-align: center">Jpn</p> |     | <p style="text-align: center">Live-action</p> |
-| <p style="text-align: center">[Wiki](<a href="https://en.wikipedia.org/wiki/If_My_Favorite_Pop_Idol_Made_It_to_the_Budokan,_I_Would_Die">https://en.wikipedia.org/wiki/If_My_Favorite_Pop_Idol_Made_It_to_the_Budokan,_I_Would_Die)</a></p> | <p style="text-align: center">[Watch Online](<a href="https://animekai.to/watch/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-7j2n#ep=1">https://animekai.to/watch/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-7j2n#ep=1)</a></p> | <p style="text-align: center">[Download](<a href="https://nyaa.si/view/1234088">https://nyaa.si/view/1234088)</a></p> |
+
+Watch Online: [Animekai.to](https://animekai.to/watch/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-7j2n#ep=1)
+
+Download: [Nyaa.so](https://nyaa.si/view/1234088)
