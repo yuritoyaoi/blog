@@ -1,0 +1,27 @@
+media:
+  input: src/assets/images
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/content/posts
+    filename: "{primary}.md"
+    view:
+      fields: [title, order]
+      primary: title
+      sort: [order, title]
+      default:
+        sort: order
+        order: asc
+      fields:
+        - {name: title, label: Title, type: string, required: true}
+        - {name: published, label: Published, type: number}
+        - {name: description, label: Description, type: string}
+        - {name: tags, label: Tags, type: string}
+        - name: category
+          label: Category
+          type: select
+          options:
+            values: [Manga, Anime, Literature, Movie, Shows]
+        - {name: draft, type: boolean, defaut: false, label: Draft?}
+        - {name: cover, type: image, label: Cover Image}
