@@ -6,6 +6,14 @@ import type {
 	SiteConfig,
 } from "./types/config";
 import { LinkPreset } from "./types/config";
+import '@formdown/ui';
+
+// Use in your HTML/JSX
+<formdown-ui>
+    @name*: []
+    @email*: @[]
+    @submit: [submit]
+</formdown-ui>
 
 export const siteConfig: SiteConfig = {
 	title: "Yuri to Yaoi",
