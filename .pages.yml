@@ -27,7 +27,7 @@ content:
         - {name: description, label: Description, type: string}
         - name: tags
           label: Tags
-          type: text
+          type: reference
           options:
             values: [Yuri, Yaoi]
         - name: category
