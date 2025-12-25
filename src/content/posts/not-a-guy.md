@@ -10,6 +10,8 @@ image: src/content/posts/notaguy-cover.png
 ---
 Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He’s got an air of mystery about him, always dressed well, and has impeccable taste in music. Little does she know — this supposedly male employee is actually her female classmate Mitsuki!
 
+Author: Sumiko Arai
+
 | <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> | <p style="text-align: center">Other Media</p> |
 | --- | --- | --- |
 | <p style="text-align: center">03</p> | <p style="text-align: center">Complete</p> | <p style="text-align: center">Anime</p> |
