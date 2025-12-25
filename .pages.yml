@@ -13,16 +13,17 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
-    filename: "{primary}.md"
+    filename: "{short}.md"
     view:
-      fields: [title, order, date]
-      primary: title
+      fields: [title, short, order, date]
+      primary: short
       sort: [order, title]
       default:
         sort: order
         order: asc
     fields:
         - {name: title, label: Title, type: string, required: true}
+        - {name: short, label: Short Title, type: string}
         - name: published
           label: Published
           type: date
@@ -33,8 +34,11 @@ content:
           label: Category
           type: select
           options:
-            values: [Manga, Anime, Literature, Movie, Shows]
+            values: [Manga, Anime, Literature, Movie, Drama]
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: body
           label: Content
-          type: rich-text
+          type: code
+          options:
+             language: markdown
+             default: [tags: ]
