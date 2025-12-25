@@ -13,7 +13,7 @@ content:
       default:
         sort: order
         order: asc
-      fields:
+    fields:
         - {name: title, label: Title, type: string, required: true}
         - {name: published, label: Published, type: number}
         - {name: description, label: Description, type: string}
