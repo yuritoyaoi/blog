@@ -14,4 +14,9 @@ A laid-back freshman attending Gatagata Girls' High School who ends up joining t
 | :---: | :---: | :---: |
 | <p style="text-align: center">08</p> | <p style="text-align: center">Complete</p> | <p style="text-align: center">Manga</p> |
 | <p style="text-align: center">Jpn</p> |     | <p style="text-align: center">Live-action</p> |
-| <p style="text-align: center">[Website](https://diy-anime.com/)</p> | <p style="text-align: center">[Watch Online](https://animekai.to/watch/do-it-yourself-1wp1#ep=1)</p> | <p style="text-align: center">[Download](https://dkb.si/shows/view/do-it-yourself)</p> |
+
+Website: [DIY](https://diy-anime.com/)
+
+Watch Online: [Animekai.to](https://animekai.to/watch/do-it-yourself-1wp1#ep=1)
+
+Download: [DKB.si](https://dkb.si/shows/view/do-it-yourself)
