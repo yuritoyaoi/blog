@@ -40,5 +40,5 @@ content:
           type: image
           label: Cover Image
           options:
-            path: src/content/posts
+            path: posts
         - {name: body, label: Content, type: rich-text}
