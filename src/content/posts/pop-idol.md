@@ -1,6 +1,6 @@
 ---
 title: If My Favorite Pop Idol Made It to the Budokan, I Would Die
-short: pop-idolr
+short: pop-idol
 published: 2025-12-25
 description: Eripiyo is initially a woman leading a normal life until it is
   turned upside down after watching a performance of the minor idol group
