@@ -6,14 +6,6 @@ import type {
 	SiteConfig,
 } from "./types/config";
 import { LinkPreset } from "./types/config";
-import '@formdown/ui';
-
-// Use in your HTML/JSX
-<formdown-ui>
-    @name*: []
-    @email*: @[]
-    @submit: [submit]
-</formdown-ui>
 
 export const siteConfig: SiteConfig = {
 	title: "Yuri to Yaoi",
@@ -25,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: false,
-		src: "assets/images/header.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: "./assets/images/header.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
