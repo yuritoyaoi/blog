@@ -13,10 +13,3 @@ My name is Fae and I decided to compile LGTBQ+ content into one blog. If you hav
 ### NO ❌:
   - Rape
   - Hentai/porn
-
-@interests{Anime, Manga, Show, Movie, Literature:
-@message(Message): T4[placeholder="Your message..."]
-
-Thanks for the recommendation!
-
-@submit_btn: [submit label="Send Message"]
