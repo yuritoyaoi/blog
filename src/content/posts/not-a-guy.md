@@ -6,10 +6,8 @@ description: Fashionable and upbeat high schooler Aya falls head over heels for
 category: Manga
 tags: "[Yuri]"
 draft: false
-cover: src/content/posts/notaguy-cover.png
+image: src/content/posts/notaguy-cover.png
 ---
-![](src/content/posts/notaguy-cover.png)
-
 Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He’s got an air of mystery about him, always dressed well, and has impeccable taste in music. Little does she know — this supposedly male employee is actually her female classmate Mitsuki!
 
 | <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> | <p style="text-align: center">Other Media</p> |
