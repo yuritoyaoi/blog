@@ -41,4 +41,12 @@ content:
           options:
             path: posts
             output: src/content/posts
-        - {name: body, label: Content, type: rich-text}
+        - name: body
+          label: Content
+          type: code
+          default:
+            [---
+            tags:
+            ---]
+          options:
+            language: markdown
