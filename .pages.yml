@@ -41,4 +41,3 @@ content:
           type: code
           options:
              language: markdown
-             default: [tags: ]
