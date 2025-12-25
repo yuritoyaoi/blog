@@ -13,7 +13,7 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
-    filename: "{short}.md"
+    filename: "{primary}.md"
     view:
       fields: [title, short, order, date]
       primary: short
