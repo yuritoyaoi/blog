@@ -1,7 +1,7 @@
 media:
   - name: images
     label: Blog Images
-    input: ./posts
+    input: src/content/posts
     output: /media
     extensions: [png, jpg]
 content:
@@ -12,7 +12,7 @@ content:
   - name: posts
     label: Posts
     type: collection
-    path: ./posts
+    path: src/content/posts
     filename: "{primary}.md"
     view:
       fields: [title, order, date]
