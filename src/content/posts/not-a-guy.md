@@ -10,7 +10,9 @@ image: ./notaguy-cover.png
 Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He’s got an air of mystery about him, always dressed well, and has impeccable taste in music. Little does she know — this supposedly male employee is actually her female classmate Mitsuki!
 
 | Volumes | Status | Other Media |
-| :---: | :---: | :---: |
+| :-----: | :----: | :---------: |
 | 03 | Complete | Anime |
 | Eng | | Release Date TBA |
 | [Website](https://yenpress.com/series/the-guy-she-was-interested-in-wasn-t-a-guy-at-all) | [Read Online](https://comix.to/title/9e3j-the-guy-she-was-interested-in-wasnt-a-guy-at-all) | [Download](https://nyaa.si/view/2057406) |
+
+![Alt text](src/assets/images/yuri_manga.png "Yuri Manga")
