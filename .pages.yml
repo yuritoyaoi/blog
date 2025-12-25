@@ -2,7 +2,7 @@ media:
   - name: images
     label: Blog Images
     input: src/content/posts
-    output: ./
+    output: /media
     extensions: [png, jpg]
 content:
   - name: about
@@ -40,13 +40,12 @@ content:
           label: Cover Image
           options:
             path: posts
-            output: src/content/posts
         - name: body
           label: Content
           type: code
           default:
             [---
-            tags:
+            tags
             ---]
           options:
             language: markdown
