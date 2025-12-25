@@ -9,7 +9,7 @@ import MainGridLayout from "../layouts/MainGridLayout.astro";
 const aboutPost = await getEntry("spec", "contact");
 
 if (!contactPost) {
-	throw new Error("Contract page content not found");
+	throw new Error("Contact page content not found");
 }
 
 const { Content } = await render(contactPost);
