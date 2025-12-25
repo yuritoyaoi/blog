@@ -7,6 +7,7 @@ media:
     label: Blog Images
     input: src/content/posts
     output: media
+    extensions: [png, jpg]
 content:
   - name: posts
     label: Posts
