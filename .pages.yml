@@ -25,14 +25,12 @@ content:
           options:
             format: yyyy-MM-dd
         - {name: description, label: Description, type: string}
-        - name: tag
-          label: Tag
-          type: text
         - name: category
           label: Category
           type: select
           options:
-            values: [Manga, Anime, Literature, Movie, Shows]
+            multiple: true
+            values: [Manga, Anime, Literature, Movie, Shows, Yuri, Yaoi]
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: cover
           type: image
