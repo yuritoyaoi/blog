@@ -29,8 +29,12 @@ content:
           label: Category
           type: select
           options:
-            multiple: true
             values: [Manga, Anime, Literature, Movie, Shows, Yuri, Yaoi]
+        - name: tags
+          label: Tag
+          type: select
+          options:
+            values: [Yuri, Yaoi]
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: cover
           type: image
