@@ -7,7 +7,9 @@ description: Eripiyo is initially a woman leading a normal life until it is
   ChamJam, which leads her to becoming obsessed with one of its members, Maina
   Ichii.
 category: Anime
+tags: [Yuri]
 draft: false
+image: /src/content/posts/img/pop-idol-cover.png
 ---
 Eripiyo is initially a woman leading a normal life until it is turned upside down after watching a performance of the minor idol group ChamJam, which leads her to becoming obsessed with one of its members, Maina Ichii. Despite Eripiyo's enthusiasm towards her, Maina is consistently the least popular member of the group, leaving Eripiyo to take it upon herself to buy a lot of Maina's merchandise, which mainly involves singles. [Wiki](https://en.wikipedia.org/wiki/If_My_Favorite_Pop_Idol_Made_It_to_the_Budokan,_I_Would_Die)
 
