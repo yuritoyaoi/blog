@@ -27,8 +27,7 @@ content:
         - {name: description, label: Description, type: string}
         - name: tags
           label: Tags
-          type: boolean
-          default: false
+          type: text
           options:
             values: [Yuri, Yaoi]
         - name: category
