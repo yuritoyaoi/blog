@@ -36,11 +36,12 @@ content:
             values: [Manga, Anime, Literature, Movie, Shows]
         - name: tags
           label: Tag
-          type: text
+          type: rich-text
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: image
           type: image
           label: Cover Image
           options:
             path: posts
+            output: src/content/posts
         - {name: body, label: Content, type: rich-text}
