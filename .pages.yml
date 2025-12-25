@@ -37,6 +37,8 @@ content:
         - name: tags
           label: Tags
           type: code
+          options:
+            language: markdown
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: image
           type: image
