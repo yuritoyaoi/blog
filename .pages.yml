@@ -34,7 +34,7 @@ content:
           type: select
           options:
             values: [Manga, Anime, Literature, Movie, Shows]
-        - name: markdown
+        - name: tag
           label: Tags
           type: code
           options:
