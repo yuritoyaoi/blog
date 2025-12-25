@@ -1,9 +1,22 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+My name is Fae and I decided to compile LGTBQ+ content into one blog. If you have any recommendations, please let me know. :)
 
-::github{repo="saicaca/fuwari"}
+## Recommendation Rules
+### YES ⭕️:
+  Lead character is...
+  - transgender (includes nonbinary and all other identities that fall under the trans umbrella)
+  - in a yuri (woman-love-woman/lesbian) relationship*
+  - in a yaoi (man-love-man/gay) relationship*
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+*Can also be non-romantic relationships.
+
+### NO ❌:
+  - Rape
+  - Hentai/porn
+
+@interests{Anime, Manga, Show, Movie, Literature:
+@message(Message): T4[placeholder="Your message..."]
+
+Thanks for the recommendation!
+
+@submit_btn: [submit label="Send Message"]
