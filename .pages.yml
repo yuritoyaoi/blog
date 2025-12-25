@@ -36,5 +36,9 @@ content:
           options:
             values: [Manga, Anime, Literature, Movie, Shows]
         - {name: draft, type: boolean, default: false, label: Draft?}
-        - {name: cover, type: image, label: Cover Image}
+        - name: cover
+          type: image
+          label: Cover Image
+          options:
+            path: src/content/posts
         - {name: body, label: Content, type: rich-text}
