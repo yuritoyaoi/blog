@@ -2,7 +2,7 @@ media:
   - name: images
     label: Blog Images
     input: src/content/posts
-    output: media
+    output: src/content/posts
     extensions: [png, jpg]
 content:
   - name: posts
