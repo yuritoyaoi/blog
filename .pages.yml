@@ -34,9 +34,6 @@ content:
           type: select
           options:
             values: [Manga, Anime, Literature, Movie, Shows]
-        - name: tags
-          label: Tag
-          type: rich-text
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: image
           type: image
