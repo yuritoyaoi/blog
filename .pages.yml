@@ -25,7 +25,11 @@ content:
           options:
             format: yyyy-mm-dd
         - {name: description, label: Description, type: string}
-        - {name: tags, label: Tags, type: text}
+        - name: tags
+          label: Tags
+          type: select
+          options:
+            values: [Yuri, Yaoi]
         - name: category
           label: Category
           type: select
