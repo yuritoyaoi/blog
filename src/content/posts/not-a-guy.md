@@ -16,4 +16,9 @@ Author: Sumiko Arai
 | --- | --- | --- |
 | <p style="text-align: center">03</p> | <p style="text-align: center">Complete</p> | <p style="text-align: center">Anime</p> |
 | <p style="text-align: center">Eng</p> |     | <p style="text-align: center">Release Date TBA</p> |
-| <p style="text-align: center"><a href="https://yenpress.com/series/the-guy-she-was-interested-in-wasn-t-a-guy-at-all">Website</a></p> | <p style="text-align: center"><a href="https://comix.to/title/9e3j-the-guy-she-was-interested-in-wasnt-a-guy-at-all">Read Online</a></p> | <p style="text-align: center"><a href="https://nyaa.si/view/2057406">Download</a></p> |
+
+Website: [Yenpress](https://yenpress.com/series/the-guy-she-was-interested-in-wasn-t-a-guy-at-all)
+
+Read Online: [Comix.to](https://comix.to/title/9e3j-the-guy-she-was-interested-in-wasnt-a-guy-at-all)
+
+Download: [Nyaa.si](https://nyaa.si/view/2057406)
