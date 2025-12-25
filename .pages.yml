@@ -1,5 +1,10 @@
 media:
-  input: src/
+  - name: images
+    label: Logos
+    input: src/assets/images
+  - name: Files
+    label: Blog Images
+    input: src/assets/posts
 content:
   - name: posts
     label: Posts
