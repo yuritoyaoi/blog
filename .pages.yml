@@ -4,13 +4,6 @@ media:
     input: src/content/posts
     output: ./
     extensions: [png, jpg]
-components:
-  body:
-    label: Content
-    type: code
-    options:
-      language: markdown
-    default: [tags:]
 content:
   - name: about
     label: About
@@ -44,4 +37,8 @@ content:
             values: [Manga, Anime, Literature, Movie, Drama]
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: body
-          
+          label: Content
+          type: code
+          options:
+             language: markdown
+             value: "tags:"
