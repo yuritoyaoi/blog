@@ -2,9 +2,11 @@ media:
   - name: images
     label: Logos
     input: src/assets/images
+    output: media
   - name: Files
     label: Blog Images
-    input: src/assets/posts
+    input: src/content/posts
+    output: media
 content:
   - name: posts
     label: Posts
