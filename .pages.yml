@@ -29,7 +29,7 @@ content:
           options:
             format: yyyy-mm-dd
         - {name: description, label: Description, type: string}
-        - {name: tags, label: Tags, type: string}
+        - {name: tags, label: Tags, type: text}
         - name: category
           label: Category
           type: select
