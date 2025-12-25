@@ -42,10 +42,8 @@ content:
             path: posts
         - name: body
           label: Content
-          type: code
+          type: rich-text
           default:
             [---
             tags
             ---]
-          options:
-            language: markdown
