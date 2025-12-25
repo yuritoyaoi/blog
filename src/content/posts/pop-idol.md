@@ -6,7 +6,7 @@ description: Eripiyo is initially a woman leading a normal life until it is
   ChamJam, which leads her to becoming obsessed with one of its members, Maina
   Ichii.
 category: Anime
-tags: \[Yuri\]
+tags: [Yuri]
 draft: false
 image: ./pop-idol-cover.png
 ---
