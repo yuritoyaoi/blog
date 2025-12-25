@@ -23,13 +23,11 @@ content:
           label: Published
           type: date
           options:
-            format: yyyy-mm-dd
+            format: yyyy-MM-dd
         - {name: description, label: Description, type: string}
         - name: tags
           label: Tags
-          type: reference
-          options:
-            values: [Yuri, Yaoi]
+          type: text
         - name: category
           label: Category
           type: select
