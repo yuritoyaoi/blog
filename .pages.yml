@@ -3,10 +3,6 @@ media:
     label: Logos
     input: src/assets/images
     output: media
-  - name: Files
-    label: Blog Images
-    input: src/content/posts
-    output: media
     extensions: [png, jpg]
 content:
   - name: posts
