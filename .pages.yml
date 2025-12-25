@@ -5,6 +5,11 @@ media:
     output: src/content/posts
     extensions: [png, jpg]
 content:
+  - name: about
+    label: About
+    type: file
+    path: src/content/spec/about.md
+content:
   - name: posts
     label: Posts
     type: collection
@@ -29,14 +34,14 @@ content:
           label: Category
           type: select
           options:
-            values: [Manga, Anime, Literature, Movie, Shows, Yuri, Yaoi]
+            values: [Manga, Anime, Literature, Movie, Shows]
         - name: tags
           label: Tag
           type: select
           options:
-            values: ["[Yuri]", "[Yaoi]"]
+            values: [[Yuri], [Yaoi]]
         - {name: draft, type: boolean, default: false, label: Draft?}
-        - name: cover
+        - name: image
           type: image
           label: Cover Image
           options:
