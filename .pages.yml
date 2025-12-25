@@ -9,7 +9,6 @@ content:
     label: About
     type: file
     path: src/content/spec/about.md
-content:
   - name: posts
     label: Posts
     type: collection
