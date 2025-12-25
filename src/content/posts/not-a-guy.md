@@ -3,7 +3,7 @@ title: The Guy She Was Interested In Wasn’t a Guy at All
 published: 2025-00-25
 description: Fashionable and upbeat high schooler Aya falls head over heels for
   an employee at a local CD shop.
-tags: "Yuri, "
+tags: Yuri
 category: Manga
 draft: false
 ---
