@@ -4,8 +4,9 @@ published: 2025-12-25
 description: Fashionable and upbeat high schooler Aya falls head over heels for
   an employee at a local CD shop.
 category: Manga
+markdown: "tags: [Yuri]"
 draft: false
-image: /media/notaguy-cover.png
+image: src/content/posts/notaguy-cover.png
 ---
 Fashionable and upbeat high schooler Aya falls head over heels for an employee at a local CD shop. He’s got an air of mystery about him, always dressed well, and has impeccable taste in music. Little does she know — this supposedly male employee is actually her female classmate Mitsuki!
 
