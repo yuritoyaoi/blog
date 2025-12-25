@@ -15,7 +15,7 @@ content:
     path: src/content/posts
     filename: "{primary}.md"
     view:
-      fields: [title, order]
+      fields: [title, order, date]
       primary: title
       sort: [order, title]
       default:
