@@ -2,7 +2,7 @@ media:
   - name: images
     label: Blog Images
     input: src/content/posts
-    output: /media
+    output: src/content/posts
     extensions: [png, jpg]
 content:
   - name: about
@@ -34,6 +34,11 @@ content:
           type: select
           options:
             values: [Manga, Anime, Literature, Movie, Shows]
+        - name: markdown
+          label: Tags
+          type: code
+          options:
+            language: markdown
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: image
           type: image
