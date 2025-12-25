@@ -1,21 +1,17 @@
 ---
-title: If My Favorite Pop Idol Made It to the Budokan, I Would Die
+title: Do It Yourself!!
 published: 2025-12-25
-description: Eripiyo is initially a woman leading a normal life until it is
-  turned upside down after watching a performance of the minor idol group
-  ChamJam, which leads her to becoming obsessed with one of its members, Maina
-  Ichii.
+description: A laid-back freshman attending Gatagata Girls' High School who ends up joining the DIY Club. 
 category: Anime
 tags: [Yuri]
-draft: true
-image: ./img/pop-idol-cover.png
+draft: false
+image: ./img/diy-cover.png
 ---
-Eripiyo is initially a woman leading a normal life until it is turned upside down after watching a performance of the minor idol group ChamJam, which leads her to becoming obsessed with one of its members, Maina Ichii. Despite Eripiyo's enthusiasm towards her, Maina is consistently the least popular member of the group, leaving Eripiyo to take it upon herself to buy a lot of Maina's merchandise, which mainly involves singles. [Wiki](https://en.wikipedia.org/wiki/If_My_Favorite_Pop_Idol_Made_It_to_the_Budokan,_I_Would_Die)
+A laid-back freshman attending Gatagata Girls' High School who ends up joining the DIY Club. She is very accident-prone, with a perfect attendance record at the nurse's office. Because of her being prone to injury, she is often seen with bandages on her body. Her name in Japanese order is a homonym of the "yourself" in "do it yourself". [Wiki](https://en.wikipedia.org/wiki/Do_It_Yourself!!)
 
-Author: Auri Hirao
 
 | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> | <p style="text-align: center">Other Media</p> |
 | :---: | :---: | :---: |
-| <p style="text-align: center">12</p> | <p style="text-align: center">Complete</p> | <p style="text-align: center">Manga</p> |
+| <p style="text-align: center">08</p> | <p style="text-align: center">Complete</p> | <p style="text-align: center">Manga</p> |
 | <p style="text-align: center">Jpn</p> |     | <p style="text-align: center">Live-action</p> |
-| <p style="text-align: center">[Wiki](<a href="https://en.wikipedia.org/wiki/If_My_Favorite_Pop_Idol_Made_It_to_the_Budokan,_I_Would_Die">https://en.wikipedia.org/wiki/If_My_Favorite_Pop_Idol_Made_It_to_the_Budokan,_I_Would_Die)</a></p> | <p style="text-align: center">[Watch Online](<a href="https://animekai.to/watch/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-7j2n#ep=1">https://animekai.to/watch/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-7j2n#ep=1)</a></p> | <p style="text-align: center">[Download](<a href="https://nyaa.si/view/1234088">https://nyaa.si/view/1234088)</a></p> |
+| <p style="text-align: center">[Website](https://diy-anime.com/)</p> | <p style="text-align: center">[Watch Online](https://animekai.to/watch/do-it-yourself-1wp1#ep=1)</p> | <p style="text-align: center">[Download](https://dkb.si/shows/view/do-it-yourself)</p> |
