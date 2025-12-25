@@ -2,7 +2,7 @@
 title: If My Favorite Pop Idol Made It to the Budokan, I Would Die
 published: 2025-12-25
 description: Eripiyo is initially a woman leading a normal life until it is turned upside down after watching a performance of the minor idol group ChamJam, which leads her to becoming obsessed with one of its members, Maina Ichii.
-category: [Anime]
+category: Anime
 tage: [Yuri]
 draft: false
 image: ./pop-idol-cover.png
