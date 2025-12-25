@@ -4,7 +4,7 @@ published: 2025-12-25
 description: Fashionable and upbeat high schooler Aya falls head over heels for
   an employee at a local CD shop.
 category: Manga
-tags: Yuri
+tags: "[Yuri]"
 draft: false
 image: src/content/posts/notaguy-cover.png
 ---
