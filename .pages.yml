@@ -38,7 +38,7 @@ content:
           label: Tags
           type: select
           options:
-            values: [[Yuri],[Yaoi]]
+            values: "[Yuri],[Yaoi]"
         - {name: draft, type: boolean, default: false, label: Draft?}
         - name: image
           type: image
