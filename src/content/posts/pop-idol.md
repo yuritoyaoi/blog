@@ -19,9 +19,9 @@ Eripiyo is initially a woman leading a normal life until it is turned upside dow
 <iframe width="560" height="315" src="https://www.youtube.com/embed/svBwR-BcwWw?si=KCtcatb0bL-HWhWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Drama
-| <p style="text-align: center">Seasons</p> | <p style="text-align: center">Status</p> |
+| <p style="text-align: center">Seasons</p> | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: |
-| <p style="text-align: center">02</p> | <p style="text-align: center">Complete</p> |
+| <p style="text-align: center">01</p> | <p style="text-align: center">10</p> | <p style="text-align: center">Complete</p> |
 
 ### Trailer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7URYo9XzY_s?si=gHIdkh84uKgrX9Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
