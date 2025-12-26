@@ -4,7 +4,7 @@ short: pop-idol
 published: 2025-12-25
 description: Eripiyo is initially a woman leading a normal life until it is turned upside down after watching a performance of the minor idol group ChamJam, which leads her to becoming obsessed with one of its members, Maina Ichii.
 category: Yuri
-tags: [Anime, Manga]
+tags: [Anime, Manga, Comedy]
 draft: false
 image: ./img/pop-idol-cover.png
 ---
