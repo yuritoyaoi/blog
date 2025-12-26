@@ -4,7 +4,7 @@ published: 2025-12-26
 category: Yuri
 tags: [Game]
 draft: false
-image: ./witch-cover.jpeg
+image: ./witch-cover.jpg
 ---
 > While not exclusively yuri, you can romance a female character in this game.
 
