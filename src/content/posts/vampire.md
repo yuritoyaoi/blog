@@ -2,7 +2,7 @@
 title: Interview with the Vampire
 published: 2025-12-26
 description: A century-old vampire from New Orleans reunites with an ailing journalist to recount his life of bloodlust and his tumultuous relationship with the rakish Frenchman who turned him. 
-category: Anime
+category: Drama
 tags: [Yaoi]
 draft: true
 image: ./img/vampire-cover.jpg

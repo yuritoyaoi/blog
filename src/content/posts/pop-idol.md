@@ -21,5 +21,3 @@ Author: Auri Hirao
 | <p style="text-align: center">Jpn</p> |     | <p style="text-align: center">Live-action</p> |
 
 Watch Online: [Animekai.to](https://animekai.to/watch/if-my-favorite-pop-idol-made-it-to-the-budokan-i-would-die-7j2n#ep=1)
-
-Download: [Nyaa.so](https://nyaa.si/view/1234088)

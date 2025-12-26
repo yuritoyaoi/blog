@@ -18,5 +18,3 @@ A laid-back freshman attending Gatagata Girls' High School who ends up joining t
 Website: [DIY](https://diy-anime.com/)
 
 Watch Online: [Animekai.to](https://animekai.to/watch/do-it-yourself-1wp1#ep=1)
-
-Download: [DKB.si](https://dkb.si/shows/view/do-it-yourself)

@@ -18,5 +18,3 @@ A laid-back freshman attending Gatagata Girls' High School who ends up joining t
 Website: []()
 
 Watch Online: []()
-
-Download: []()

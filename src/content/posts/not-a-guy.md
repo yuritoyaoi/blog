@@ -20,5 +20,3 @@ Author: Sumiko Arai
 Website: [Yenpress](https://yenpress.com/series/the-guy-she-was-interested-in-wasn-t-a-guy-at-all)
 
 Read Online: [Comix.to](https://comix.to/title/9e3j-the-guy-she-was-interested-in-wasnt-a-guy-at-all)
-
-Download: [Nyaa.si](https://nyaa.si/view/2057406)

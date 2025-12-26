@@ -16,6 +16,3 @@ Ayaka Usagida, a young office worker, falls madly in love with her senior team l
 | <p style="text-align: center">Jpn</p> |     | <p style="text-align: center">Eng - WIP</p> |
 
 Watch Online (S01 is free): [Gagaoolala](https://www.gagaoolala.com/en/videos/4530/ayaka-is-in-love-with-hiroko-2024)
-
-Download:
-[Nyaa, Season 01](https://nyaa.si/view/1966938) | [Furritsubs, Season 01](https://furritsubs.wordpress.com/2024/07/07/ayahiro-engsubs/) and [Season 02](https://furritsubs.wordpress.com/2025/07/22/ayahiros2-engsubs/)
