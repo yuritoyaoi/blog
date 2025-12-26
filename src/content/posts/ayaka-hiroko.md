@@ -18,8 +18,9 @@ Soft and bubbly office lady Ayaka is madly in love with her senior at work, Hiro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ni7bPo_cRbQ?si=4It9-CwrFz6N2mZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Manga
-![](https://upload.wikimedia.org/wikipedia/en/1/13/Ayaka_is_in_Love_With_Hiroko_Volume_1_Japanese_Cover.jpg)
-> Cover image source: By Sal Jiang - <a rel="nofollow" class="external free" href="https://www.futabasha.co.jp/book/9784575856415000000">https://www.futabasha.co.jp/book/9784575856415000000</a>, <a href="//en.wikipedia.org/wiki/File:Ayaka_is_in_Love_With_Hiroko_Volume_1_Japanese_Cover.jpg" title="Fair use of copyrighted material in the context of Ayaka is in Love With Hiroko!">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=77111252">Link</a>
+![Ayaka is in Love with HIROKO](https://upload.wikimedia.org/wikipedia/en/1/13/Ayaka_is_in_Love_With_Hiroko_Volume_1_Japanese_Cover.jpg)
+> Image source: [Sal Jiang](https://www.futabasha.co.jp/book/9784575856415000000)
+
 | <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: |
 | <p style="text-align: center">03</p> | <p style="text-align: center">Complete</p> |
