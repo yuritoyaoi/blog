@@ -19,13 +19,10 @@ Soft and bubbly office lady Ayaka is madly in love with her senior at work, Hiro
 
 ## Manga
 ![Ayaka is in Love with HIROKO](https://upload.wikimedia.org/wikipedia/en/1/13/Ayaka_is_in_Love_With_Hiroko_Volume_1_Japanese_Cover.jpg)
-> Image source: [Sal Jiang](https://www.futabasha.co.jp/book/9784575856415000000)
 
 | <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: |
 | <p style="text-align: center">03</p> | <p style="text-align: center">Complete</p> |
 
 ## Links
-[Drama](https://www.mbs.jp/ayahiro/)
-
-[Manga](https://comic-action.com/episode/13933686331668792399)
+[Drama](https://www.mbs.jp/ayahiro/) | [Manga](https://comic-action.com/episode/13933686331668792399)

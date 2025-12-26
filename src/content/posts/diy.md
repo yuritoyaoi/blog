@@ -9,8 +9,6 @@ image: ./img/diy-cover.png
 ---
 Building furniture and friendships have a lot in common. Intention, effort, and hard work are needed for both crafts. This is a story of girls in a DIY club building both as they carve out their futures. None of it comes easy, but that doesn’t stop any of ’em. Furniture, friendships, and the future—they’re building it all with their own hands!
 
-Website: [DIY](https://diy-anime.com/)
-
 ## Anime
 | <p style="text-align: center">Seasons</p> | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: | :---: |
@@ -20,8 +18,18 @@ Website: [DIY](https://diy-anime.com/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pxRszOIy9eA?si=JaxcybCyST8LQQ72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Drama
-| <p style="text-align: center">Seasons</p> | <p style="text-align: center">Status</p> |
-| :---: | :---: |
-| <p style="text-align: center">02</p> | <p style="text-align: center">Complete</p> |
+| <p style="text-align: center">Seasons</p> | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> |
+| :---: | :---: | :---: |
+| <p style="text-align: center">01</p> | <p style="text-align: center">08</p> | <p style="text-align: center">Complete</p> |
 
 ### Trailer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nhRKKDw1ZQ8?si=DE2jYR5uXY1JqErW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Manga
+![]()
+| <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> |
+| :---: | :---: |
+| <p style="text-align: center">03</p> | <p style="text-align: center">Complete</p> |
+
+## Links
+[Anime](https://diy-anime.com/) | [Drama](https://www.mbs.jp/dorama_diy/)

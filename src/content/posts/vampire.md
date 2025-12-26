@@ -9,14 +9,19 @@ image: ./img/vampire-cover.jpg
 ---
 A century-old vampire from New Orleans reunites with an ailing journalist to recount his life of bloodlust and his tumultuous relationship with the rakish Frenchman who turned him.
 
-
-| <p style="text-align: center">Seasons</p> | <p style="text-align: center">Status</p> | <p style="text-align: center">Other Media</p> |
+## Drama
+| <p style="text-align: center">Seasons</p> | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: | :---: |
-| <p style="text-align: center">02</p> | <p style="text-align: center">On-going</p> | <p style="text-align: center">Novels</p> |
-| <p style="text-align: center">Eng</p> |     | <p style="text-align: center"></p> |
+| <p style="text-align: center">02</p> | <p style="text-align: center">00</p> |<p style="text-align: center">On-going</p> |
+
+### Trailer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BecdVouR7mY?si=mrLrVQVmSAohFkH-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Literature
+| <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> |
+| :---: | :---: |
+| <p style="text-align: center">13</p> | <p style="text-align: center">Complete</p> |
 
 ---
 ## Links
-Website: [Netflix](https://www.netflix.com/title/81639986)
-
-Watch Online: [Netflix](https://www.netflix.com/title/81639986)
+[Drama](https://www.amc.com/shows/anne-rice-interview-with-the-vampire--1053259) | [Literature](https://annerice.com/Bookshelf-VampireChronicles.html)
