@@ -11,3 +11,5 @@
 ### NO ❌:
   - Rape
   - Hentai/porn
+
+[I agree to follow the rules stated above.](mailto:transinjapan@proton.me)
