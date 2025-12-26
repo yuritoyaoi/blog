@@ -3,7 +3,7 @@ title: Do It Yourself!!
 published: 2025-12-25
 description: A laid-back freshman attending Gatagata Girls' High School who ends up joining the DIY Club. 
 category: Yuri
-tags: [Anime, Drama, Manga]
+tags: [Anime, Drama, Manga, Slice of Life]
 draft: false
 image: ./img/diy-cover.png
 ---
