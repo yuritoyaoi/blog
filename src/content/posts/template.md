@@ -33,7 +33,7 @@ Cooking is how Nomoto de-stresses, but one day, she finds herself making way mor
 | <p style="text-align: center">Jpn</p> | <p style="text-align: center"></p> |
 
 ## Manga
-
+![]()
 | <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: |
 | <p style="text-align: center">02</p> | <p style="text-align: center">Complete</p> |
@@ -43,5 +43,6 @@ Cooking is how Nomoto de-stresses, but one day, she finds herself making way mor
 ## Movie
 
 ## Links
-Website: [Drama](https://www.mbs.jp/ayahiro/)
-Website: [Manga](https://comic-action.com/episode/13933686331668792399)
+[Drama](https://www.mbs.jp/ayahiro/)
+
+[Manga](https://comic-action.com/episode/13933686331668792399)
