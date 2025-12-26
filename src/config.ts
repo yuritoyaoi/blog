@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
 	},
 	banner: {
 		enable: true,
-		src: 'assets/images/header.jpg', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		src: 'assets/images/header.png', // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
@@ -56,7 +56,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/logo.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Yuri to Yaoi",
-	bio: "Repository for any yuri, trans, and yaoi media I come across.",
+	bio: "Repository for any LGBTQ+ media I come across.",
 	links: [
 		{
 			name: "Instagram",
