@@ -66,8 +66,8 @@ content:
         - {name: draft, type: boolean, default: true, label: Draft}
         - name: body
           label: Body
-          type: object
+          type: code
           fields:
-          - name: body
-            label: Content
+          - name: anime
+            label: Anime
             type: text
