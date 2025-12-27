@@ -17,18 +17,15 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
-    extensions: [md]
-    filename: "{primary}.md"
+    filename: "{{year}-{month}-{day}}.md"
     view:
-      fields: [title, short, order, date]
-      primary: short
+      fields: [title, order, date]
       sort: [order, title]
       default:
         sort: order
         order: asc
     fields:
         - {name: title, label: Title, type: string, required: true}
-        - {name: short, label: Short Title, type: string}
         - name: published
           label: Published
           type: date
@@ -44,6 +41,7 @@ content:
           label: Category
           type: select
           options:
+            multuple: true
             values: [Yuri, Yaoi, Trans, LGTBQIA+]
         - name: tags
           label: Tags
@@ -51,19 +49,19 @@ content:
           options:
             multiple: true
             values:
-            - value: [anime]
+            - value: [Anime]
               label: Anime
-            - value: [drama]
+            - value: [Drama]
               label: Drama
-            - value: [documentary]
+            - value: [Documentary]
               label: Documentary
-            - value: [game]
+            - value: [Game]
               label: Game
-            - value: [literature]
+            - value: [Literature]
               label: Literature
-            - value: [manga]
+            - value: [Manga]
               label: Manga
-            - value: [movie]
+            - value: [Movie]
               label: Movie
         - {name: draft, type: boolean, default: true, label: Draft}
         - name: body
