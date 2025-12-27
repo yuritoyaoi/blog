@@ -71,3 +71,8 @@ content:
         - name: body
           label: Body
           type: code
+          options:
+            values:
+            - value: [anime]
+              label: Anime
+              type: text
