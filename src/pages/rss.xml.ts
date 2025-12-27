@@ -23,6 +23,7 @@ export async function GET(context: APIContext) {
 		title: siteConfig.title,
 		description: siteConfig.subtitle || "No description",
 		site: context.site ?? "https://fuwari.vercel.app",
+		category: post.data.category,
 		items: blog.map((post) => {
 			const content =
 				typeof post.body === "string" ? post.body : String(post.body || "");
@@ -32,7 +33,7 @@ export async function GET(context: APIContext) {
 				pubDate: post.data.published,
 				description: post.data.description || "",
 				link: url(`/posts/${post.slug}/`),
-				category: post.data.category,
+				category: post.data.category | "",
 				content: sanitizeHtml(parser.render(cleanedContent), {
 					allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
 				}),
