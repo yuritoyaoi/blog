@@ -9,6 +9,10 @@ content:
     label: About
     type: file
     path: src/content/spec/about.md
+  - name: contact
+    label: Contact
+    type: file
+    path: src/content/spec/contact.md
   - name: posts
     label: Posts
     type: collection
@@ -29,13 +33,38 @@ content:
           type: date
           options:
             format: yyyy-MM-dd
+        - name: pubDate
+          label: pubDate
+          type: date
+          options:
+            format: yyyy-MM-dd  
         - {name: description, label: Description, type: string}
         - name: category
           label: Category
           type: select
           options:
-            values: [Manga, Anime, Literature, Movie, Drama]
-        - {name: draft, type: boolean, default: false, label: Draft?}
+            values: [Yuri, Yaoi, Trans, LGTBQIA+]
+        - name: tags
+          label: Tags
+          type: select
+          options:
+            multiple: true
+            values:
+            - value: [anime]
+              label: Anime
+            - value: [drama]
+              label: Drama
+            - value: [documentary]
+              label: Documentary
+            - value: [game]
+              label: Game
+            - value: [literature]
+              label: Literature
+            - value: [manga]
+              label: Manga
+            - value: [movie]
+              label: Movie
+        - {name: draft, type: boolean, default: true, label: Draft}
         - name: body
           label: Content
           type: code
