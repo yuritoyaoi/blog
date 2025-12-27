@@ -64,11 +64,12 @@ content:
             - value: [Movie]
               label: Movie
         - {name: draft, type: boolean, default: true, label: Draft}
-        - name: body
-          label: Content
-          type: code
-          options:
-             language: markdown
-        - name: anime
-          label: Anime
-          type: text
+        - name: contact
+          label: Contact information
+          type: object
+          fields:
+          - name: body
+            label: Content
+            type: code
+            options:
+               language: markdown
