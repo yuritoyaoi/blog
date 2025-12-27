@@ -21,10 +21,11 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
-    filename: "{{year}-{month}-{day}}.md"
+    filename: "{primary}.md"
     view:
-      fields: [title, order, date]
-      sort: [order, title]
+      fields: [title, order, date, pubDate]
+      sort: [date, title]
+      primary: pubDate
       default:
         sort: order
         order: asc
