@@ -55,7 +55,7 @@ content:
             multiple: true
             values:
             - value: [Anime]
-              label: ""
+              label: "Anime"
             - value: [Drama]
               label: 'Drama'
             - value: [Documentary]
