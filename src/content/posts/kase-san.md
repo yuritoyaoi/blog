@@ -1,6 +1,7 @@
 ---
 title: Kase-san and Morning Glories
 pubDate: 2025-12-29
+published: 2025-12-29
 description: Cooking is how Nomoto de-stresses, but one day, she finds herself making way more than she can eat by herself.
 category: Yuri
 tags: [Anime, Manga, Romance]
