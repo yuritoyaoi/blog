@@ -16,7 +16,7 @@ Eripiyo is initially a woman leading a normal life until it is turned upside dow
 | <p style="text-align: center">12</p> | <p style="text-align: center">Complete</p> |
 
 ### Trailer
-<iframe width="800" height="315" src="https://www.youtube.com/embed/svBwR-BcwWw?si=KCtcatb0bL-HWhWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/svBwR-BcwWw?si=KCtcatb0bL-HWhWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Drama
 | <p style="text-align: center">Seasons</p> | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> |
@@ -24,7 +24,7 @@ Eripiyo is initially a woman leading a normal life until it is turned upside dow
 | <p style="text-align: center">01</p> | <p style="text-align: center">10</p> | <p style="text-align: center">Complete</p> |
 
 ### Trailer
-<iframe width="800" height="315" src="https://www.youtube.com/embed/7URYo9XzY_s?si=gHIdkh84uKgrX9Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/7URYo9XzY_s?si=gHIdkh84uKgrX9Jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Manga
 ![If My Favorite Pop Idol Made It to the Budokan, I Would Die](https://en.wikipedia.org/wiki/File:Oshi_ga_Bud%C5%8Dkan_Ittekuretara_Shinu_volume_1_cover.jpg)

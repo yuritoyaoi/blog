@@ -13,7 +13,7 @@ While not exclusively yuri, you can romance a female character in this game.
 Play a witch who opens a bakery in Paris, in this cozy adventure RPG.
 
 ### Trailer
-<iframe width="800" height="315" src="https://www.youtube.com/embed/52DNO516s34?si=zWqn-kQEuAGMRM_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/52DNO516s34?si=zWqn-kQEuAGMRM_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Links
 [Website](https://sunnylabgames.com/)
