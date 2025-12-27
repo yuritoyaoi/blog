@@ -68,24 +68,6 @@ content:
             - value: [Movie]
               label: Movie
         - {name: draft, type: boolean, default: true, label: Draft}
-        - name: sections
-          label: Page Sections
-          type: block
-          list: true # Often used with type: block to allow multiple sections
-          blockKey: type # Optional: customize the key used to store the block name, defaults to `_block`
-          blocks:
-            - name: anime
-              label: Add Anime Table
-              fields:
-                - name: content
-                  label: Anime Content
-                  type: code
-            - name: drama
-              label: Add Drama Table
-              fields:
-                - name: content
-                  label: Drama Content
-                  type: code
         - name: body
           label: Body
           type: code
