@@ -55,19 +55,19 @@ content:
             multiple: true
             values:
             - value: [Anime]
-              label: Anime
+              label: ""
             - value: [Drama]
-              label: Drama
+              label: 'Drama'
             - value: [Documentary]
-              label: Documentary
+              label: 'Documentary'
             - value: [Game]
-              label: Game
+              label: 'Game'
             - value: [Literature]
-              label: Literature
+              label: 'Literature'
             - value: [Manga]
-              label: Manga
+              label: 'Manga'
             - value: [Movie]
-              label: Movie
+              label: 'Movie'
         - {name: draft, type: boolean, default: true, label: Draft}
         - name: body
           label: Body
