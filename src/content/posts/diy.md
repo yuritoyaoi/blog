@@ -15,7 +15,7 @@ Building furniture and friendships have a lot in common. Intention, effort, and 
 | <p style="text-align: center">01</p> | <p style="text-align: center">12</p> | <p style="text-align: center">Complete</p> |
 
 ### Trailer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxRszOIy9eA?si=JaxcybCyST8LQQ72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/pxRszOIy9eA?si=JaxcybCyST8LQQ72" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Drama
 | <p style="text-align: center">Seasons</p> | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> |
@@ -23,7 +23,7 @@ Building furniture and friendships have a lot in common. Intention, effort, and 
 | <p style="text-align: center">01</p> | <p style="text-align: center">08</p> | <p style="text-align: center">Complete</p> |
 
 ### Trailer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nhRKKDw1ZQ8?si=DE2jYR5uXY1JqErW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/nhRKKDw1ZQ8?si=DE2jYR5uXY1JqErW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Manga
 ![]()

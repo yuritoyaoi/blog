@@ -15,7 +15,7 @@ Fashionable and upbeat high schooler Aya falls head over heels for an employee a
 | <p style="text-align: center">00</p> | <p style="text-align: center">00</p> | <p style="text-align: center">Announced</p> |
 
 ### Trailer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YSb7vNlxARc?si=Xbh-V_c6e7SlC33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/YSb7vNlxARc?si=Xbh-V_c6e7SlC33c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Manga
 ![The Guy She Was Interested In Wasn’t a Guy at All](https://cdn.kdkw.jp/cover_1000/322505/322505000989.webp)

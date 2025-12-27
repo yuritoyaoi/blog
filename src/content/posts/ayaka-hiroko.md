@@ -15,7 +15,7 @@ Soft and bubbly office lady Ayaka is madly in love with her senior at work, Hiro
 | <p style="text-align: center">02</p> |  <p style="text-align: center">14</p> | <p style="text-align: center">Complete</p> |
 
 ### Trailer
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ni7bPo_cRbQ?si=4It9-CwrFz6N2mZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="315" src="https://www.youtube.com/embed/ni7bPo_cRbQ?si=4It9-CwrFz6N2mZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Manga
 ![Ayaka is in Love with HIROKO](https://upload.wikimedia.org/wikipedia/en/1/13/Ayaka_is_in_Love_With_Hiroko_Volume_1_Japanese_Cover.jpg)
