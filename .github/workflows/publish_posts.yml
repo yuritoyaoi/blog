@@ -47,7 +47,7 @@ jobs:
       - name: Stage, Commit, and Push changes
         if: steps.git_check.outputs.changes_detected == 'true'
         run: |
-          git add src/content/blog/
+          git add src/content/posts/
           if ! git diff --staged --quiet; then
             git commit -m "Auto-publish scheduled blog posts"
             echo "Pushing changes..."
