@@ -8,6 +8,7 @@ category: Yuri
 tags:
   - Drama
   - Manga
+  - Romance
 draft: false
 ---
 Soft and bubbly office lady Ayaka is madly in love with her senior at work, Hiroko! Two lovestruck coworkers who both think the other is straight totally crush on each other...
