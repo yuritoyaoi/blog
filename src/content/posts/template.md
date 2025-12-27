@@ -1,9 +1,10 @@
 ---
 title: She Loves to Cook, and She Loves to Eat
 published: 2025-12-26
+pubDate: 2025-12-12
 description: Cooking is how Nomoto de-stresses, but one day, she finds herself making way more than she can eat by herself.
 category: Yuri
-tags: [Anime, Drama, Literature, Manga, Movie]
+tags: [Anime, Documentary, Drama, Game, Literature, Manga, Movie]
 draft: true
 image: /.
 ---
