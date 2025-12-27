@@ -16,7 +16,7 @@ content:
   - name: template
     label: Template
     type: file
-    path: src/content/spec/posts/template.md
+    path: src/content/posts/template.md
   - name: posts
     label: Posts
     type: collection
