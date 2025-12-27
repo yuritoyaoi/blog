@@ -13,6 +13,10 @@ content:
     label: Contact
     type: file
     path: src/content/spec/contact.md
+  - name: template
+    label: Template
+    type: file
+    path: src/content/spec/posts/template.md
   - name: posts
     label: Posts
     type: collection
