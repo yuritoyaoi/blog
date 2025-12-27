@@ -5,7 +5,7 @@ description: Cooking is how Nomoto de-stresses, but one day, she finds herself m
 category: Yuri
 tags: [Anime, Drama, Literature, Manga, Movie]
 draft: true
-image: 
+image: /.
 ---
 Cooking is how Nomoto de-stresses, but one day, she finds herself making way more than she can eat by herself. And so, she invites her neighbor Kasuga, who also lives alone. What will come out of this impromptu dinner invitation...?
 
