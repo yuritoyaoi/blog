@@ -6,7 +6,9 @@ tags: [Game]
 draft: false
 image: ./img/witch-cover.jpg
 ---
-> While not exclusively yuri, you can romance a female character in this game.
+:::note 
+While not exclusively yuri, you can romance a female character in this game.
+:::
 
 Play a witch who opens a bakery in Paris, in this cozy adventure RPG.
 
