@@ -23,8 +23,7 @@ The Lost Ones are wanderers who come here from a distant world known as "Japan."
 | <p style="text-align: center">11</p> | <p style="text-align: center">Complete</p> |
 
 ## Manga
-<p style="text-align: center">![Volume 1 Cover](https://magazine.jp.square-enix.com/yg/comics/images/2021/02/9784757570986.jpg)</p>
-
+![Volume 1 Cover](https://magazine.jp.square-enix.com/yg/comics/images/2021/02/9784757570986.jpg)
 | <p style="text-align: center">Volumes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: |
 | <p style="text-align: center">07</p> | <p style="text-align: center">Complete</p> |
