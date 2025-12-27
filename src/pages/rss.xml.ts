@@ -32,7 +32,7 @@ export async function GET(context: APIContext) {
 				pubDate: post.data.published,
 				description: post.data.description || "",
 				link: url(`/posts/${post.slug}/`),
-				category: post.data.category | "",
+				category: post.data.category || "",
 				content: sanitizeHtml(parser.render(cleanedContent), {
 					allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
 				}),
