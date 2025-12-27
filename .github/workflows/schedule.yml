@@ -30,7 +30,7 @@ jobs:
       - name: Check for file changes
         id: git_check
         run: |
-          if git diff --quiet --exit-code --ignore-space-change ${{ github.workspace }}/src/content/blog; then
+          if git diff --quiet --exit-code --ignore-space-change ${{ github.workspace }}/src/content/posts; then
             echo "No changes detected in blog posts."
             echo "changes_detected=false" >> $GITHUB_OUTPUT
           else
