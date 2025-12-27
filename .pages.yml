@@ -72,7 +72,6 @@ content:
           label: Body
           type: code
           options:
-            multiple: true
             values:
             - value: [anime]
               label: Anime
