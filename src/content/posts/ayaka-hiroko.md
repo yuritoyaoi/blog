@@ -1,11 +1,14 @@
 ---
 title: AYAKA is in LOVE with HIROKO
 published: 2025-12-25
-description: Ayaka Usagida, a young office worker, falls madly in love with her senior team leader, Hiroko Kanō.
+pubDate: 2025-12-25
+description: Ayaka Usagida, a young office worker, falls madly in love with her
+  senior team leader, Hiroko Kanō.
 category: Yuri
-tags: [Drama, Manga, Romance]
+tags:
+  - Drama
+  - Manga
 draft: false
-image: ./img/ayaka-cover.png
 ---
 Soft and bubbly office lady Ayaka is madly in love with her senior at work, Hiroko! Two lovestruck coworkers who both think the other is straight totally crush on each other...
 
