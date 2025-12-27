@@ -73,6 +73,6 @@ content:
           type: code
           options:
             values:
-            - name: anime
+            - value: [anime]
               label: Anime
               type: text
