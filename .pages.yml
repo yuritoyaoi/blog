@@ -45,7 +45,7 @@ content:
           label: Category
           type: select
           options:
-            multiple: true
+            multiple: false
             values: [Yuri, Yaoi, Trans, LGTBQIA+]
         - name: tags
           label: Tags
