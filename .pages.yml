@@ -70,4 +70,4 @@ content:
         - {name: draft, type: boolean, default: true, label: Draft}
         - name: body
           label: Body
-          type: text
+          type: code
