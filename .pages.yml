@@ -69,4 +69,6 @@ content:
           type: code
           options:
              language: markdown
-             placeholder: "tags: []"
+        - name: anime
+          label: Anime
+          type: text
