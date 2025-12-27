@@ -80,6 +80,12 @@ content:
                 - name: content
                   label: Anime Content
                   type: code
+            - name: drama
+              label: Add Drama Table
+              fields:
+                - name: content
+                  label: Drama Content
+                  type: code
         - name: body
           label: Body
           type: code
