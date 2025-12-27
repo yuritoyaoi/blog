@@ -73,3 +73,6 @@ content:
           type: code
           options:
             language: markdown
+            values:
+            - value: [Anime]
+              label: Anime
