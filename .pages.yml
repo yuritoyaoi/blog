@@ -17,7 +17,7 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
-    extentions: [md]
+    extensions: [md]
     filename: "{primary}.md"
     view:
       fields: [title, short, order, date]
