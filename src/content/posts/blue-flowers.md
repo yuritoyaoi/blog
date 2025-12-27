@@ -1,6 +1,7 @@
 ---
 title: Sweet Blue Flowers
 pubDate: 2025-12-28
+published: 2025-12-28
 description: Akira Okudaira becomes reacquainted with her childhood friend Fumi Manjōme, whom she hasn't seen for ten years.
 category: Yuri
 tags: [Anime, Manga, Romance, Coming-of-Age]
