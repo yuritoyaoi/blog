@@ -67,7 +67,8 @@ content:
         - name: body
           label: Body
           type: code
-          fields:
-          - name: anime
-            label: Anime
-            type: text
+          options:
+            values:
+            - name: anime
+              label: Anime
+              type: text
