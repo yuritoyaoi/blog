@@ -25,3 +25,5 @@ Fumi and Akira were close childhood friends until Fumi had to move away. Ten yea
 
 ## Links
 [Website](https://web.archive.org/web/20120113070503/http://www.aoihana.tv/)
+
+#yuri

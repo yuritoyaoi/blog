@@ -17,3 +17,5 @@ Play a witch who opens a bakery in Paris, in this cozy adventure RPG.
 
 ## Links
 [Website](https://sunnylabgames.com/)
+
+#yuri

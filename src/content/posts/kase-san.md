@@ -20,3 +20,5 @@ Cooking is how Nomoto de-stresses, but one day, she finds herself making way mor
 
 ## Links
 [Website](http://asagao-anime.com/)
+
+#yuri

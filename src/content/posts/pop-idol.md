@@ -34,3 +34,5 @@ Eripiyo is initially a woman leading a normal life until it is turned upside dow
 
 ## Links
 [Anime](https://oshibudo.com/) | [Drama](https://www.asahi.co.jp/oshibudo/) | [Manga](https://www.comic-ryu.jp/series/osibudo/)
+
+#yuri

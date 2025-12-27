@@ -30,3 +30,5 @@ The Lost Ones are wanderers who come here from a distant world known as "Japan."
 
 ## Links
 [Anime](https://virgin-road.com/) | [Literature](https://ga.sbcr.jp/sp/virginroad/) | [Manga](https://magazine.jp.square-enix.com/yg/introduction/syokei/)
+
+#yuri

@@ -33,3 +33,5 @@ Building furniture and friendships have a lot in common. Intention, effort, and 
 
 ## Links
 [Anime](https://diy-anime.com/) | [Drama](https://www.mbs.jp/dorama_diy/)
+
+#yuri

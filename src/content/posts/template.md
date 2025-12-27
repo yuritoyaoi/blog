@@ -41,4 +41,4 @@ Cooking is how Nomoto de-stresses, but one day, she finds herself making way mor
 ## Links
 []() | []()
 
-<details>tag</details>
+#

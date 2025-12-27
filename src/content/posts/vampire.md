@@ -25,3 +25,5 @@ A century-old vampire from New Orleans reunites with an ailing journalist to rec
 ---
 ## Links
 [Drama](https://www.amc.com/shows/anne-rice-interview-with-the-vampire--1053259) | [Literature](https://annerice.com/Bookshelf-VampireChronicles.html)
+
+#yaoi

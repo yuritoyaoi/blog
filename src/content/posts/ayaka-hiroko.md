@@ -26,3 +26,5 @@ Soft and bubbly office lady Ayaka is madly in love with her senior at work, Hiro
 
 ## Links
 [Drama](https://www.mbs.jp/ayahiro/) | [Manga](https://comic-action.com/episode/13933686331668792399)
+
+#yuri

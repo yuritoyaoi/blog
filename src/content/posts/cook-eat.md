@@ -26,3 +26,5 @@ Cooking is how Nomoto de-stresses, but one day, she finds herself making way mor
 
 ## Links
 [Drama](https://www.nhk.jp/p/tsukutabe/ts/5NX1QRN3VM/) | [Manga](https://comic-walker.com/detail/KC_002798_S?episodeType=first)
+
+#yuri
