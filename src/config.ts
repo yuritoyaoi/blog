@@ -65,6 +65,13 @@ export const profileConfig: ProfileConfig = {
 			// `pnpm add @iconify-json/<icon-set-name>`
 			url: "https://instagram.com/yuritoyaoi",
 		}
+		{
+			name: "Discord",
+			icon: "fa6-brands:discord", // Visit https://icones.js.org/ for icon codes
+			// You will need to install the corresponding icon set if it's not already included
+			// `pnpm add @iconify-json/<icon-set-name>`
+			url: "https://discord.gg/8RdCRMGNYQ",
+		}
 	],
 };
 
