@@ -52,7 +52,7 @@ content:
           label: Tags
           type: select
           options:
-            createable: true
+            creatable: true
             multiple: true
             values: [Anime, Drama, Documentary, Game, Literature, Manga, Movie]
         - {name: draft, type: boolean, default: true, label: Draft}
