@@ -1,9 +1,16 @@
 ---
 title: The Executioner and Her Way of Life
 published: 2025-12-27
-description: The duty of exterminating them without remorse falls to Menou, a young Executioner. When she meets Akari, it seems like just another job...
+pubDate: 2025-12-27
+description: The duty of exterminating them without remorse falls to Menou, a
+  young Executioner. When she meets Akari, it seems like just another job...
 category: Yuri
-tags: [Anime, Literature, Manga, Adventure, Isekai]
+tags:
+  - Anime
+  - Literature
+  - Manga
+  - Adventure
+  - Isekai
 draft: false
 image: https://ga.sbcr.jp/sp/virginroad/img/main_banner.png
 ---
@@ -30,5 +37,3 @@ The Lost Ones are wanderers who come here from a distant world known as "Japan."
 
 ## Links
 [Anime](https://virgin-road.com/) | [Literature](https://ga.sbcr.jp/sp/virginroad/) | [Manga](https://magazine.jp.square-enix.com/yg/introduction/syokei/)
-
-#yuri
