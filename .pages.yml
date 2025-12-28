@@ -15,8 +15,8 @@ content:
       sort: [pubDate, title]
       primary: pubDate
       default:
-        sort: pubdate
-        order: asc
+        sort: pubDate
+        order: desc
     fields:
         - {name: title, label: Title, type: string, required: true}
         - name: published
