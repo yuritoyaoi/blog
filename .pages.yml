@@ -42,11 +42,11 @@ content:
           options:
             creatable: true
             multiple: true
-            values: [Anime, Drama, Documentary, Game, Literature, Manga, Movie]
+            values: [Anime, Drama, Documentary, Game, Literature, Manga, Movie, Sitcom]
         - {name: draft, type: boolean, default: true, label: Draft}
         - {name: image, type: string, label: Image, required: true}
         - name: body
-          label: Body
+          label: Content
           type: code
           options:
             language: markdown
