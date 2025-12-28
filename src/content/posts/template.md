@@ -21,7 +21,7 @@ Cooking is how Nomoto de-stresses, but one day, she finds herself making way mor
 ## Drama
 | <p style="text-align: center">Seasons</p> | <p style="text-align: center">Episodes</p> | <p style="text-align: center">Status</p> |
 | :---: | :---: | :---: |
-| <p style="text-align: center">02</p> | <p style="text-align: center">00</p> |< p style="text-align: center">Complete</p> |
+| <p style="text-align: center">02</p> | <p style="text-align: center">00</p> |<p style="text-align: center">Complete</p> |
 
 ### Trailer
 
