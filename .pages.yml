@@ -11,11 +11,11 @@ content:
     path: src/content/posts
     filename: "{primary}.md"
     view:
-      fields: [title, pubDate, primary]
-      sort: [date, title]
+      fields: [title, pubDate]
+      sort: [pubDate, title]
       primary: pubDate
       default:
-        sort: order
+        sort: pubdate
         order: asc
     fields:
         - {name: title, label: Title, type: string, required: true}
