@@ -5,7 +5,7 @@ published: 2025-12-28
 description: Akira Okudaira becomes reacquainted with her childhood friend Fumi Manjōme, whom she hasn't seen for ten years.
 category: Yuri
 tags: [Anime, Manga, Romance, Coming-of-Age]
-draft: true
+draft: false
 image: https://cdn.animenewsnetwork.com/thumbnails/max450x450/cms/news.3/151443/sweet-blue-flowers.jpg
 ---
 Fumi and Akira were close childhood friends until Fumi had to move away. Ten years after losing touch with each other, the two girls meet again as high school freshmen. The two struggle to reconnect after so much has changed, and both deal with the trials and tribulations of high school — sometimes independently and sometimes with each other’s help.
