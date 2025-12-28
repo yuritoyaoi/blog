@@ -11,7 +11,7 @@ content:
     path: src/content/posts
     filename: "{primary}.md"
     view:
-      fields: [title, order, date, pubDate]
+      fields: [title, pubDate, primary]
       sort: [date, title]
       primary: pubDate
       default:
