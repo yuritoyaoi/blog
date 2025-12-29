@@ -5,7 +5,7 @@ published: 2025-12-29
 description: Although the two girls don't seem to have much in common, they soon start a romance where each must learn an important lesson in tending their budding relationship.
 category: Yuri
 tags: [Anime, Manga, Romance]
-draft: true
+draft: false
 image: https://image.tmdb.org/t/p/original/18OyxPrTmz7YQoWTjY8qXGSdRz1.jpg
 ---
 Yamada may be shy and rather clumsy, but the flower gardens at her school have always brought her happiness. Suddenly, a different sort of beauty catches her eye—the vivacious track star, Kase-san. Can the two girls, so different from each other, learn how to make their first love blossom?
