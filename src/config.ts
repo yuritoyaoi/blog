@@ -9,7 +9,7 @@ import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
 	title: "Yuri to Yaoi",
-	subtitle: "LGBTQ+ Media",
+	subtitle: "LGBTQIA+ Media",
 	lang: "en", // Language code, e.g. 'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
@@ -56,7 +56,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/logo_trio.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Yuri to Yaoi",
-	bio: "Repository for any LGBTQ+ media I come across.",
+	bio: "Repository for any LGBTQIA+ media I come across.",
 	links: [
 		{
 			name: "Instagram",
