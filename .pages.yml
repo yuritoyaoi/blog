@@ -1,0 +1,64 @@
+media:
+  - name: images
+    label: Blog Images
+    input: src/content/posts
+    output: ./
+    extensions: [png, jpg]
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: src/content/posts
+    filename: "{primary}.md"
+    view:
+      fields: [title, pubDate]
+      sort: [pubDate, title]
+      primary: pubDate
+      default:
+        sort: pubDate
+        order: desc
+    fields:
+        - {name: title, label: Title, type: string, required: true}
+        - name: published
+          label: Published
+          type: date
+          options:
+            format: yyyy-MM-dd
+        - name: pubDate
+          label: pubDate
+          type: date
+          options:
+            format: yyyy-MM-dd  
+        - {name: description, label: Description, type: string}
+        - name: category
+          label: Category
+          type: select
+          options:
+            multiple: false
+            values: [Yuri, Yaoi, Trans, LGBTQIA+]
+        - name: tags
+          label: Tags
+          type: select
+          options:
+            creatable: true
+            multiple: true
+            values: [Anime, Drama, Documentary, Game, Literature, Manga, Movie, Sitcom]
+        - {name: draft, type: boolean, default: true, label: Draft}
+        - {name: image, type: string, label: Image, required: true}
+        - name: body
+          label: Content
+          type: code
+          options:
+            language: markdown
+  - name: about
+    label: About
+    type: file
+    path: src/content/spec/about.md
+  - name: contact
+    label: Contact
+    type: file
+    path: src/content/spec/contact.md
+  - name: template
+    label: Template
+    type: file
+    path: src/content/posts/template.md

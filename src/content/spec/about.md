@@ -1,9 +1,9 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+My name is Fae and I decided to compile LGTBQ+ content into one blog. If you have any recommendations, please let me know. :)
 
-::github{repo="saicaca/fuwari"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## Definitions
+
+**Yuri (Japanese: 百合; lit. "lily")**, is a term used within Japanese media to describe intimate relationships (either emotional and spiritual, rather than romantic or sexual) between female characters.
+
+**Boys' love (Japanese: ボーイズ ラブ)**, or **Yaoi**, on the other hand, _IS_ a genre (usually) depicting homoerotic relationships between male characters.

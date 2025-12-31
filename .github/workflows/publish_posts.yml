@@ -1,0 +1,57 @@
+name: Auto-Publish Astro Blog Posts
+
+on:
+  schedule:
+    - cron: "0 1,3,5,7,9,11 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  publish-posts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install PyYAML
+
+      - name: Run publish script
+        id: publish_script
+        run: python scripts/publish_posts.py
+
+      - name: Check for file changes
+        id: git_check
+        run: |
+          if git diff --quiet --exit-code --ignore-space-change ${{ github.workspace }}/src/content/posts; then
+            echo "No changes detected in blog posts."
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in blog posts."
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Configure Git user
+        if: steps.git_check.outputs.changes_detected == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Stage, Commit, and Push changes
+        if: steps.git_check.outputs.changes_detected == 'true'
+        run: |
+          git add src/content/posts/
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-publish scheduled blog posts"
+            echo "Pushing changes..."
+            git push origin HEAD:${{ github.ref_name }}
+          else
+            echo "No effective changes staged after running script, skipping commit/push."
+          fi
